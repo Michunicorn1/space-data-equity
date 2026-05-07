@@ -1,0 +1,10 @@
+numpy>=1.24.0
+requests>=2.31.0
+pytest>=7.4.0
+
+# For live Sentinel-2 data (optional — requires Copernicus account):
+# sentinelsat>=1.2.1
+# rasterio>=1.3.0
+
+# For SMS delivery (optional — requires Twilio account):
+# twilio>=8.0.0
